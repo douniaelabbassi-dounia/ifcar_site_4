@@ -6,10 +6,10 @@ Site statique (HTML/CSS/JS, sans dépendance ni build) respectant le cahier des 
 ## Direction artistique — « Editorial Corporate »
 Un parti pris plus **moderne et premium**, nettement différent des propositions précédentes :
 
-- **Palette** : navy profond (`#0c1320`) + accent **doré** (`#c79a3e`) et bleu IFCAR secondaire.
+- **Palette** : navy profond (`#0c1320`) + charte IFCAR — **vert #95ce0a** (principal) et **bleu #0081bf** (secondaire) et bleu IFCAR secondaire.
 - **Typographie** : *Fraunces* (serif éditorial) pour les titres + *Inter* pour le texte.
 - **Mises en page** : héros sombre avec carte « verre », **grille bento**, bandeau de chiffres
-  sur fond foncé, cartes à liseré doré, marquees de logos, timeline, accordéons.
+  sur fond foncé, cartes à liseré vert, marquees de logos, timeline, accordéons.
 - **Header** sticky en verre dépoli, animations d'apparition au scroll, 100 % responsive.
 
 ## Pages (conformes au cahier des charges)
